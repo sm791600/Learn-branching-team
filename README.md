@@ -6,4 +6,5 @@
 
 
 text with no quotes 
-text that is conflict inducing 
+
+text after resolved conflict
