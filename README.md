@@ -2,7 +2,14 @@
 "Some additional text" 
 "Yet more text" 
 
-"Yet more tex /w t" 
+
+text that IS THE MOST CONFLICT INDUCING
+
+A
+
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAa!!!111!!!!!111!!
 
 
 text with no quotes 
